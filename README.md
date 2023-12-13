@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HumainIT
 - 👀 I’m interested in making the world a better place
-- 🌱 I’m currently learning blockchain devdlopment
+- 🌱 I’m currently learning blockchain development
 - 💞️ I’m looking to collaborate on a new concept that is a 'gem'
 - 📫 How to reach me - rlp58i2u@duck.com
 
